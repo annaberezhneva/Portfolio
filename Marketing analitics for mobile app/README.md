@@ -1,6 +1,6 @@
 # Маркетинговая аналитика развлекательного приложения
 
-[ipynb](https://github.com/annaberezhneva/Portfolio/blob/main/Computer%20games%20store%20project/computer%20games%20store%20project.ipynb)
+[ipynb](https://github.com/annaberezhneva/Portfolio/blob/main/Marketing%20analitics%20for%20mobile%20app/marketing%20analitics%20for%20mobile%20app.ipynb)
 
 ## Цель проекта
 
