@@ -1,6 +1,6 @@
 # 1. Музыка больших городов
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[ipynb](https://github.com/annaberezhneva/Portfolio/blob/main/Yandex%20music%20project/yandex%20music%20project.ipynb)
 
 ## Цель проекта
 
