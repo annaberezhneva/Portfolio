@@ -2,7 +2,7 @@
 
 [ipynb](https://github.com/annaberezhneva/Portfolio/blob/main/Yandex%20music%20project/yandex%20music%20project.ipynb)
 
-## Цель проекта
+## Описание проекта
 
 Сравнить и выявить различия и сходства в музыкальных предпочтения пользователей онлайн сервиса музыки в Москве и Санкт-Петербурге.
 
