@@ -1,4 +1,4 @@
-# 1. Музыка больших городов
+# Сравнение музыкальных предпочтений пользователей музыкального сервиса 
 
 [ipynb](https://github.com/annaberezhneva/Portfolio/blob/main/Yandex%20music%20project/yandex%20music%20project.ipynb)
 
