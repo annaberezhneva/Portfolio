@@ -1,6 +1,6 @@
 # Маркетинговая аналитика развлекательного приложения
 
-[ipynb](https://github.com/annaberezhneva/Portfolio/blob/main/Marketing%20analitics%20for%20mobile%20app/marketing%20analitics%20for%20mobile%20app.ipynb)
+[ipynb](https://github.com/annaberezhneva/yandex_practicum/blob/main/Marketing%20analytics%20for%20app/app%20marketing%20analytics.ipynb)
 
 ## Цель проекта
 
